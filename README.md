@@ -1,7 +1,7 @@
 Push Swap
+
 Push Swap is a project that tackles the task of sorting an array of integers using two stacks and a predefined set of commands. The objective is to minimize the number of moves required to sort the input integers. This program generates a sequence of instructions for the Push Swap algorithm to arrange the given integers.
 
-Caution: Ensure a thorough understanding of the code and refrain from blind copy-pasting. This practice is crucial for both your learning and maintaining academic integrity.
 
 Command Set
 The Push Swap algorithm operates with the following instructions:
