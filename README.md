@@ -63,15 +63,5 @@ At each bit position, if the bit of the top number in stack A is 0, we execute a
 
 Then, we use pa (push A) until stack B is empty, effectively connecting the numbers as in radix sort. This process is repeated for every bit, resulting in the sorted numbers in stack A.
 
-## Resources 
-
-You can find some links and books below that might be useful during the project. You can find all the books in resources folder. 
-Note that you do not have to read the books completly but you will find a lot of useful information there.
-
-Books
-
-- [Algorithms](https://github.com/42YerevanProjects/42_Push_Swap/tree/master/resources)
-
-Links
-
+for more info
 - [Push Swap Tutorial](https://medium.com/nerd-for-tech/push-swap-tutorial-fa746e6aba1e)
