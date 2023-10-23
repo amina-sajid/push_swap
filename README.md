@@ -18,7 +18,7 @@ Push Swap is a project that tackles the task of sorting an array of integers usi
 
 ## Algorithm
 1. Simple Sorting (For Stacks with Size < 6)
-For smaller stacks (size < 6), a straightforward sorting approach is utilized, which can be found in the src folder.
+For smaller stacks (size < 6), a straightforward sorting is done.
 
 2. Radix Sort (For Larger Stacks)
 For larger stacks, Radix Sort serves as the primary sorting algorithm. Radix Sort is a fast sorting technique with a time complexity of O(n). It begins by sorting numbers based on their least significant digit and gradually proceeds to the most significant digit.
